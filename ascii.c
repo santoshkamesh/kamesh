@@ -7,5 +7,4 @@ int main()
     printf("you entered %c,\n",chr);
     printf("ascii value is %d.",chr);
     return 0;
-
 }
